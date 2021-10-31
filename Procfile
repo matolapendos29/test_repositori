@@ -1,0 +1,1 @@
+web: gunicorn koko_related.wsgi --log-file -
